@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Jossyahia am a Full stack developer.
-- 👀 my Stack : JavaScript, Python, PHP. (React, Django and Laravel) some of the framework I use
-- 💞️ I’m looking to collaborate on interesting project.
+- 👋 Hi, I’m Joseph Ahia I am a community-taught developer specializing in Fullstack web applications.
+- ✨ my Stack : JavaScript, Python.
+- ✨ some of the framework I use(React, Django).
+- 💞️ Full-Stack Software Engineer at #100Devs
+- 👀 I’m looking to collaborate on interesting project.
 - 📫 You can contact with me on Twitter@jossyahia
 
 <!---
