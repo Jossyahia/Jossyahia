@@ -7,7 +7,8 @@ Software Engineer
 *   ✉️  You can contact me at [jossyahia@gmail.com](mailto:jossyahia@gmail.com)
 *   🚀  I'm currently working on [Fastfast Delivery services](http://fastfast.ng)
 *   🧠  I'm learning web components.
-*   🤝  I'm open to collaborating on interesting projects<a href="https://www.twitter.com/Jossyahia" target="_blank" rel="noreferrer"><img
+*   🤝  I'm open to collaborating on interesting projects
+<a href="https://www.twitter.com/Jossyahia" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/Jossyahia?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
 <p align="left">
